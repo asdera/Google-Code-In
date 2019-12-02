@@ -1,3 +1,3 @@
 # Google-Code-In
 
-A collection of Google Code In Projects
+A Collection of Google Code In Projects
